@@ -1,6 +1,6 @@
 # CustomProgressBar
-1. 自定义 HorizontalProgressBar
-2. 自定义 CircleProgressBar
+1. 自定义控件 HorizontalProgressBar
+2. 自定义控件 CircleProgressBar
 
 ## 效果图
 
